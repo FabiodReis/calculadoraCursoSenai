@@ -1,0 +1,28 @@
+
+public class principal {
+
+	public static void main(String[] args) {
+		
+		int numero1 = 7;
+		int numeno2 = 1;
+		int nunero3 = 2;
+		int numero4 = 3;
+		int numeros5 = 4;
+		int numero6 = 5;
+		int nuneno7 = 6;
+		int numero8 = 7;
+		int nunero9 = 8;
+		int numaro10 = 9;
+		int numera11 = 10;
+		
+		System.out.println("7x1" + (numero1*numeno2));
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

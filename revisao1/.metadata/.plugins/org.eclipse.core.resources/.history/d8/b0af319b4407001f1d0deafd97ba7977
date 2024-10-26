@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		/* Entrada de dados
+		 * Biblioteca Scanner
+		 */
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		
+	}
+
+}

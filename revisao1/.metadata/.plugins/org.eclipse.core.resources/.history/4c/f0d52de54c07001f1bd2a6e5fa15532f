@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+		double tabuada; 
+		System.out.println("Digite um numero de 1 a 10 ");
+		double numero = entrada.nextInt();
+		tabuada = 1*entrada;
+		
+		System.out.println("A tabuada de eh: "  );
+		
+	
+        
+		
+		
+	}
+
+}

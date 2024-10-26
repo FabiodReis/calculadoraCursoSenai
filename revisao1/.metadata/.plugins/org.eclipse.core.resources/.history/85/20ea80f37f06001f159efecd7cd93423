@@ -1,0 +1,27 @@
+
+public class principal {
+
+	public static void main(String[] args) {
+		
+	
+		
+		System.out.println("7X1" + (7*1));
+		System.out.println("7X2" + (7*2));
+		System.out.println("7X3" + (7*3));
+		System.out.println("7X4" + (7*4));
+		System.out.println("7X5" + (7*5));
+		System.out.println("7X6" + (7*6));
+		System.out.println("7X7" + (7*7));
+		System.out.println("7X8" + (7*8));
+		System.out.println("7X9" + (7*9));
+		System.out.println("7x10" + (7*10));
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

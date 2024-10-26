@@ -1,0 +1,37 @@
+
+public class principal {
+
+	public static void main(String[] args) {
+		
+		int numero1 = 7;
+		int numero2 = 1;
+		int numero3 = 2;
+		int numero4 = 3;
+		int numero5 = 4;
+		int numero6 = 5;
+		int nunero7 = 6;
+		int numero8 = 7;
+		int nunero9 = 8;
+		int numero10 = 9;
+		int numero11 = 10;
+		
+		System.out.println("7X1" + (numero1*numeno2);
+		System.out.println("7X2" + (numero1*nunero3));
+		System.out.println("7X3" + (numero1*numero4));
+		System.out.println("7X4" + (numero1*numeros5));
+		System.out.println("7X5" + (numero1*numero6));
+		System.out.println("7X6" + (nuneno7));
+		System.out.println("7X7" + (numero1*numero8));
+		System.out.println("7X8" + (numero1*nunero9));
+		System.out.println("7X9" + (numero1*numaro10));
+		System.out.println("7x10" + (numero1*numero11);
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,41 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+	#botao{
+	-fx-background-color: white ;
+	-fx-border-width: 1px;
+	-fx-bord-redius: 25px;
+	-fx-background-radius: 25px;
+	
+}
+
+
+#botao2{
+	-fx-background-color:white ;
+	fx-border-width: 1px;
+	-fx-bord-redius: 25px;
+	-fx-background-radius: 25px;
+}
+#botao3{
+	-fx-background-color: white;
+	fx-border-width: 1px;
+	-fx-bord-redius: 25px;
+	-fx-background-radius: 25px;
+}
+#botao4{
+	-fx-background-color: white;
+	fx-border-width: 1px;
+	-fx-bord-redius: 25px;
+	-fx-background-radius: 25px;
+}
+
+#Calc{
+	-fx-font-size: 15px;
+		-fx-font-weight: bold;
+		-fx-background-color: white;}
+		
+		#back{
+	-fx-background-color: #1E90FF;
+}
+#barra{
+	-fx-background-color: white;
+}
